@@ -1,4 +1,5 @@
 import { makeStyles } from "@material-ui/core";
+import { red } from "@material-ui/core/colors";
 
 const useStyles = makeStyles({
   card: {
@@ -26,6 +27,9 @@ const useStyles = makeStyles({
   deleteIcon: {
     paddingLeft: "20px",
     color: "#FF0000",
+  },
+  cardMd: {
+    backgroundColor: red,
   },
 });
 
