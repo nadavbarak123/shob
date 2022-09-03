@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shob/static/css/main.e6c13ad2.css",
+    "main.js": "/shob/static/js/main.373843ba.js",
+    "index.html": "/shob/index.html",
+    "main.e6c13ad2.css.map": "/shob/static/css/main.e6c13ad2.css.map",
+    "main.373843ba.js.map": "/shob/static/js/main.373843ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.373843ba.js"
+  ]
+}
